@@ -1,0 +1,10 @@
+h1 {
+  background-color: palegreen;
+  border: 1px solid black;
+  display: inline;
+}
+span {
+  background-color: peachpuff;
+  border: 1px solid black;
+  display: block;
+}
